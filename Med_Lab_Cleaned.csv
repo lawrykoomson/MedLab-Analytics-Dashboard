@@ -1,0 +1,156 @@
+Date,Patient ID,Test Type,Test Category,Price (GHS),Result Time (Hrs),New/Returning Patient,Peak/Off-Peak,Referral Source
+01/03/2024,PT1001,Full Blood Count,Hematology,120,4.5,New,Peak,Hospital A
+01/05/2024,PT1001,Full Blood Count,Hematology,120,4.5,Returning,Peak,Hospital A
+10/01/2024,PT1001,Full Blood Count,General Health,150,4,Returning,Peak,Walk-in
+01/04/2024,PT1002,Lipid Profile,Biochemistry,200,6,New,Off-Peak,Private Clinic B
+01/07/2024,PT1002,Lipid Profile,Biochemistry,200,6,Returning,Off-Peak,Private Clinic B
+10/02/2024,PT1002,Malaria Test,Infectious Disease,80,2,Returning,Off-Peak,Partner Clinic
+01/05/2024,PT1003,Urinalysis,Microbiology,80,3,New,Peak,Unknown
+01/10/2024,PT1003,Urinalysis,Microbiology,80,3,Returning,Peak,Unknown
+10/03/2024,PT1003,Cholesterol Test,Lifestyle & Diet,200,6,Returning,Peak,Online Booking
+01/06/2024,PT1004,Liver Function,Biochemistry,180,5.5,New,Peak,Hospital C
+01/12/2024,PT1004,Liver Function,Biochemistry,180,5.5,Returning,Peak,Hospital C
+10/04/2024,PT1004,COVID-19 Test,Infectious Disease,250,1,Returning,Off-Peak,Walk-in
+01/07/2024,PT1005,Malaria Test,Parasitology,50,2,New,Off-Peak,Private Clinic D
+1/15/2024,PT1005,Malaria Test,Parasitology,50,2,Returning,Off-Peak,Private Clinic D
+10/05/2024,PT1005,Liver Function,General Health,180,5,Returning,Peak,Referral
+01/08/2024,PT1006,Thyroid Panel,Endocrinology,250,7,New,Peak,Unknown
+1/18/2024,PT1006,Thyroid Panel,Endocrinology,250,7,Returning,Peak,Unknown
+10/06/2024,PT1006,Pregnancy Test,Women's Health,60,1,Returning,Off-Peak,Walk-in
+01/09/2024,PT1007,HIV Screening,Serology,100,4,New,Off-Peak,Hospital A
+1/20/2024,PT1007,HIV Screening,Serology,100,4,Returning,Off-Peak,Hospital A
+01/10/2024,PT1008,Hemoglobin A1C,Hematology,150,4.5,New,Peak,Private Clinic B
+1/22/2024,PT1008,Hemoglobin A1C,Hematology,150,4.5,Returning,Peak,Private Clinic B
+01/11/2024,PT1009,Stool Analysis,Microbiology,90,3.5,New,Off-Peak,Unknown
+1/25/2024,PT1009,Stool Analysis,Microbiology,90,3.5,Returning,Off-Peak,Unknown
+01/12/2024,PT1010,Renal Function,Biochemistry,170,5,New,Peak,Hospital C
+1/28/2024,PT1010,Renal Function,Biochemistry,170,5,Returning,Peak,Hospital C
+1/13/2024,PT1011,Blood Group,Hematology,60,1.5,New,Off-Peak,Private Clinic D
+02/02/2024,PT1011,Blood Group,Hematology,60,1.5,Returning,Off-Peak,Private Clinic D
+1/14/2024,PT1012,Glucose Test,Biochemistry,70,2.5,New,Peak,Unknown
+02/05/2024,PT1012,Glucose Test,Biochemistry,70,2.5,Returning,Peak,Unknown
+1/15/2024,PT1013,Widal Test,Serology,110,4,New,Off-Peak,Hospital A
+02/08/2024,PT1013,Widal Test,Serology,110,4,Returning,Off-Peak,Hospital A
+1/16/2024,PT1014,Pregnancy Test,Rapid Test,40,1,New,Peak,Private Clinic B
+02/10/2024,PT1014,Pregnancy Test,Rapid Test,40,1,Returning,Peak,Private Clinic B
+1/17/2024,PT1015,Electrolytes,Biochemistry,130,3.5,New,Off-Peak,Unknown
+02/12/2024,PT1015,Electrolytes,Biochemistry,130,3.5,Returning,Off-Peak,Unknown
+1/18/2024,PT1016,CRP,Immunology,160,5,New,Peak,Hospital C
+2/15/2024,PT1016,CRP,Immunology,160,5,Returning,Peak,Hospital C
+1/19/2024,PT1017,Dengue Test,Serology,140,4.5,New,Off-Peak,Private Clinic D
+2/18/2024,PT1017,Dengue Test,Serology,140,4.5,Returning,Off-Peak,Private Clinic D
+1/20/2024,PT1018,PSA Test,Oncology,220,6,New,Peak,Unknown
+2/20/2024,PT1018,PSA Test,Oncology,220,6,Returning,Peak,Unknown
+1/21/2024,PT1019,Coagulation Panel,Hematology,190,5.5,New,Off-Peak,Hospital A
+2/22/2024,PT1019,Coagulation Panel,Hematology,190,5.5,Returning,Off-Peak,Hospital A
+1/22/2024,PT1020,Vitamin D Test,Biochemistry,240,7,New,Peak,Private Clinic B
+2/25/2024,PT1020,Vitamin D Test,Biochemistry,240,7,Returning,Peak,Private Clinic B
+1/23/2024,PT1021,H. Pylori Test,Microbiology,95,3,New,Off-Peak,Unknown
+03/01/2024,PT1021,H. Pylori Test,Microbiology,95,3,Returning,Off-Peak,Unknown
+1/24/2024,PT1022,Bilirubin Test,Biochemistry,85,2.5,New,Peak,Hospital C
+03/04/2024,PT1022,Bilirubin Test,Biochemistry,85,2.5,Returning,Peak,Hospital C
+1/25/2024,PT1023,COVID-19 PCR,Virology,300,8,New,Off-Peak,Private Clinic D
+03/07/2024,PT1023,COVID-19 PCR,Virology,300,8,Returning,Off-Peak,Private Clinic D
+1/26/2024,PT1024,ECG,Cardiology,120,4.5,New,Peak,Unknown
+03/10/2024,PT1024,ECG,Cardiology,120,4.5,Returning,Peak,Unknown
+1/27/2024,PT1025,Cholesterol Test,Biochemistry,110,4,New,Off-Peak,Hospital A
+03/12/2024,PT1025,Cholesterol Test,Biochemistry,110,4,Returning,Off-Peak,Hospital A
+1/28/2024,PT1026,Hepatitis B Test,Serology,130,4.5,New,Peak,Private Clinic B
+3/15/2024,PT1026,Hepatitis B Test,Serology,130,4.5,Returning,Peak,Private Clinic B
+1/29/2024,PT1027,Bone Profile,Biochemistry,210,6.5,New,Off-Peak,Unknown
+3/18/2024,PT1027,Bone Profile,Biochemistry,210,6.5,Returning,Off-Peak,Unknown
+1/30/2024,PT1028,Sickle Cell Test,Hematology,75,2,New,Peak,Hospital C
+3/20/2024,PT1028,Sickle Cell Test,Hematology,75,2,Returning,Peak,Hospital C
+1/31/2024,PT1029,Semen Analysis,Andrology,180,5,New,Off-Peak,Private Clinic D
+3/22/2024,PT1029,Semen Analysis,Andrology,180,5,Returning,Off-Peak,Private Clinic D
+02/01/2024,PT1030,Allergy Panel,Immunology,270,7.5,New,Peak,Unknown
+3/25/2024,PT1030,Allergy Panel,Immunology,270,7.5,Returning,Peak,Unknown
+02/02/2024,PT1031,Iron Studies,Hematology,140,4,New,Off-Peak,Hospital A
+04/02/2024,PT1031,Iron Studies,Hematology,140,4,Returning,Off-Peak,Hospital A
+02/03/2024,PT1032,LFT,Biochemistry,160,5,New,Peak,Private Clinic B
+04/05/2024,PT1032,LFT,Biochemistry,160,5,Returning,Peak,Private Clinic B
+02/04/2024,PT1033,RPR Test,Serology,90,3,New,Off-Peak,Unknown
+04/08/2024,PT1033,RPR Test,Serology,90,3,Returning,Off-Peak,Unknown
+02/05/2024,PT1034,TB Screening,Microbiology,120,4.5,New,Peak,Hospital C
+04/10/2024,PT1034,TB Screening,Microbiology,120,4.5,Returning,Peak,Hospital C
+02/06/2024,PT1035,Hormonal Panel,Endocrinology,230,6.5,New,Off-Peak,Private Clinic D
+04/12/2024,PT1035,Hormonal Panel,Endocrinology,230,6.5,Returning,Off-Peak,Private Clinic D
+02/07/2024,PT1036,Blood Culture,Microbiology,150,5,New,Peak,Unknown
+4/15/2024,PT1036,Blood Culture,Microbiology,150,5,Returning,Peak,Unknown
+02/08/2024,PT1037,Calcium Test,Biochemistry,70,2,New,Off-Peak,Hospital A
+4/18/2024,PT1037,Calcium Test,Biochemistry,70,2,Returning,Off-Peak,Hospital A
+02/09/2024,PT1038,Rheumatoid Factor,Immunology,190,5.5,New,Peak,Private Clinic B
+4/20/2024,PT1038,Rheumatoid Factor,Immunology,190,5.5,Returning,Peak,Private Clinic B
+02/10/2024,PT1039,CSF Analysis,Microbiology,200,6,New,Off-Peak,Unknown
+4/22/2024,PT1039,CSF Analysis,Microbiology,200,6,Returning,Off-Peak,Unknown
+02/11/2024,PT1040,Cardiac Enzymes,Cardiology,260,7,New,Peak,Hospital C
+4/25/2024,PT1040,Cardiac Enzymes,Cardiology,260,7,Returning,Peak,Hospital C
+02/12/2024,PT1041,Full Blood Count,Hematology,120,4.5,New,Peak,Private Clinic D
+2/13/2024,PT1042,Lipid Profile,Biochemistry,200,6,New,Off-Peak,Unknown
+2/14/2024,PT1043,Urinalysis,Microbiology,80,3,New,Peak,Hospital A
+2/15/2024,PT1044,Liver Function,Biochemistry,180,5.5,New,Peak,Private Clinic B
+2/16/2024,PT1045,Malaria Test,Parasitology,50,2,New,Off-Peak,Unknown
+2/17/2024,PT1046,Thyroid Panel,Endocrinology,250,7,New,Peak,Hospital C
+2/18/2024,PT1047,HIV Screening,Serology,100,4,New,Off-Peak,Private Clinic D
+2/19/2024,PT1048,Hemoglobin A1C,Hematology,150,4.5,New,Peak,Unknown
+2/20/2024,PT1049,Stool Analysis,Microbiology,90,3.5,New,Off-Peak,Hospital A
+2/21/2024,PT1050,Renal Function,Biochemistry,170,5,New,Peak,Private Clinic B
+2/22/2024,PT1051,Blood Group,Hematology,60,1.5,New,Off-Peak,Unknown
+2/23/2024,PT1052,Glucose Test,Biochemistry,70,2.5,New,Peak,Hospital C
+2/24/2024,PT1053,Widal Test,Serology,110,4,New,Off-Peak,Private Clinic D
+2/25/2024,PT1054,Pregnancy Test,Rapid Test,40,1,New,Peak,Unknown
+2/26/2024,PT1055,Electrolytes,Biochemistry,130,3.5,New,Off-Peak,Hospital A
+2/27/2024,PT1056,CRP,Immunology,160,5,New,Peak,Private Clinic B
+2/28/2024,PT1057,Dengue Test,Serology,140,4.5,New,Off-Peak,Unknown
+2/29/2024,PT1058,PSA Test,Oncology,220,6,New,Peak,Hospital C
+03/01/2024,PT1059,Coagulation Panel,Hematology,190,5.5,New,Off-Peak,Private Clinic D
+03/02/2024,PT1060,Vitamin D Test,Biochemistry,240,7,New,Peak,Unknown
+03/03/2024,PT1061,H. Pylori Test,Microbiology,95,3,New,Off-Peak,Hospital A
+03/04/2024,PT1062,Bilirubin Test,Biochemistry,85,2.5,New,Peak,Private Clinic B
+03/05/2024,PT1063,COVID-19 PCR,Virology,300,8,New,Off-Peak,Unknown
+03/06/2024,PT1064,ECG,Cardiology,120,4.5,New,Peak,Hospital C
+03/07/2024,PT1065,Cholesterol Test,Biochemistry,110,4,New,Off-Peak,Private Clinic D
+03/08/2024,PT1066,Hepatitis B Test,Serology,130,4.5,New,Peak,Unknown
+03/09/2024,PT1067,Bone Profile,Biochemistry,210,6.5,New,Off-Peak,Hospital A
+03/10/2024,PT1068,Sickle Cell Test,Hematology,75,2,New,Peak,Private Clinic B
+03/11/2024,PT1069,Semen Analysis,Andrology,180,5,New,Off-Peak,Unknown
+03/12/2024,PT1070,Allergy Panel,Immunology,270,7.5,New,Peak,Hospital C
+3/13/2024,PT1071,Iron Studies,Hematology,140,4,New,Off-Peak,Private Clinic D
+3/14/2024,PT1072,LFT,Biochemistry,160,5,New,Peak,Unknown
+3/15/2024,PT1073,RPR Test,Serology,90,3,New,Off-Peak,Hospital A
+3/16/2024,PT1074,TB Screening,Microbiology,120,4.5,New,Peak,Private Clinic B
+3/17/2024,PT1075,Hormonal Panel,Endocrinology,230,6.5,New,Off-Peak,Unknown
+3/18/2024,PT1076,Blood Culture,Microbiology,150,5,New,Peak,Hospital C
+3/19/2024,PT1077,Calcium Test,Biochemistry,70,2,New,Off-Peak,Private Clinic D
+3/20/2024,PT1078,Rheumatoid Factor,Immunology,190,5.5,New,Peak,Unknown
+3/21/2024,PT1079,CSF Analysis,Microbiology,200,6,New,Off-Peak,Hospital A
+3/22/2024,PT1080,Cardiac Enzymes,Cardiology,260,7,New,Peak,Private Clinic B
+3/23/2024,PT1081,Full Blood Count,Hematology,120,4.5,New,Peak,Unknown
+3/24/2024,PT1082,Lipid Profile,Biochemistry,200,6,New,Off-Peak,Hospital C
+3/25/2024,PT1083,Urinalysis,Microbiology,80,3,New,Peak,Private Clinic D
+3/26/2024,PT1084,Liver Function,Biochemistry,180,5.5,New,Peak,Unknown
+3/27/2024,PT1085,Malaria Test,Parasitology,50,2,New,Off-Peak,Hospital A
+3/28/2024,PT1086,Thyroid Panel,Endocrinology,250,7,New,Peak,Private Clinic B
+3/29/2024,PT1087,HIV Screening,Serology,100,4,New,Off-Peak,Unknown
+3/30/2024,PT1088,Hemoglobin A1C,Hematology,150,4.5,New,Peak,Hospital C
+3/31/2024,PT1089,Stool Analysis,Microbiology,90,3.5,New,Off-Peak,Private Clinic D
+04/01/2024,PT1090,Renal Function,Biochemistry,170,5,New,Peak,Unknown
+04/02/2024,PT1091,Blood Group,Hematology,60,1.5,New,Off-Peak,Hospital A
+04/03/2024,PT1092,Glucose Test,Biochemistry,70,2.5,New,Peak,Private Clinic B
+04/04/2024,PT1093,Widal Test,Serology,110,4,New,Off-Peak,Unknown
+04/05/2024,PT1094,Pregnancy Test,Rapid Test,40,1,New,Peak,Hospital C
+04/06/2024,PT1095,Electrolytes,Biochemistry,130,3.5,New,Off-Peak,Private Clinic D
+04/07/2024,PT1096,CRP,Immunology,160,5,New,Peak,Unknown
+04/08/2024,PT1097,Dengue Test,Serology,140,4.5,New,Off-Peak,Hospital A
+04/09/2024,PT1098,PSA Test,Oncology,220,6,New,Peak,Private Clinic B
+04/10/2024,PT1099,Coagulation Panel,Hematology,190,5.5,New,Off-Peak,Unknown
+04/11/2024,PT1100,Vitamin D Test,Biochemistry,240,7,New,Peak,Hospital C
+04/12/2024,PT1101,H. Pylori Test,Microbiology,95,3,New,Off-Peak,Private Clinic D
+4/13/2024,PT1102,Bilirubin Test,Biochemistry,85,2.5,New,Peak,Unknown
+4/14/2024,PT1103,COVID-19 PCR,Virology,300,8,New,Off-Peak,Hospital A
+4/15/2024,PT1104,ECG,Cardiology,120,4.5,New,Peak,Private Clinic B
+4/16/2024,PT1105,Cholesterol Test,Biochemistry,110,4,New,Off-Peak,Unknown
+4/17/2024,PT1106,Hepatitis B Test,Serology,130,4.5,New,Peak,Hospital C
+4/18/2024,PT1107,Bone Profile,Biochemistry,210,6.5,New,Off-Peak,Private Clinic D
+4/19/2024,PT1108,Sickle Cell Test,Hematology,75,2,New,Peak,Unknown
+4/20/2024,PT1109,Semen Analysis,Andrology,180,5,New,Off-Peak,Hospital A
