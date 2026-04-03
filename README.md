@@ -65,6 +65,9 @@ revenue, patients, referrals and test turnaround times.
 - Healthcare Data Analysis
 - Business Reporting & Documentation
 
+## Dashboard Preview
+! [MedLab Analytics Dashboard](dashboard_screenshot.png)
+
 ## Author
 Lawrence Koomson
 Aspiring Data Analyst | Data Scientist | Prompt Engineer
